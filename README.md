@@ -14,6 +14,8 @@ Ryanjosue.rj@gmail.com
 Hopefully future me decides to create both a business email and a website which already has a contact page. I'll get there though. Anyways, if you're still reading, thanks. <br>
 <br>
 
+# for-myself
+<br>
 There is a high chance that the only person that will see this is the future me so I just wanted to say a couple things. It's 7/3/21 and you're super stressed out about the breakup (yes, a month after and you're still messed up) even more than you're stressed about college. That's not to say that you don't care about college, it's just that you were always confident on school and it's hard losing one of the most amazing friends you've ever had. <br>
 <br>
 

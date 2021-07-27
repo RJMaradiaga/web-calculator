@@ -72,3 +72,8 @@ input {
   background: #b8b8aa;
   color: #586f6b;
 }
+
+a {
+  text-decoration: underline;
+  color: #586f6b;
+}

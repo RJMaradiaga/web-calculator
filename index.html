@@ -15,26 +15,29 @@
         <section>
             <button>Undo</button>
             <button>Negative</button>
-            <button>Percent</button>
-            <button>Divide</button>
+            <button onclick="fullClear()">Clear</button>
+            <button id="/"onclick="changeOperator(this.id)">Divide</button>
         </section>
         <section>
             <button id="7" onclick="changeInputBox(this.id)">7</button>
             <button id="8" onclick="changeInputBox(this.id)">8</button>
             <button id="9" onclick="changeInputBox(this.id)">9</button>
-            <button>Multiply</button>
+            <button id="*" onclick="changeOperator(this.id)">Multiply</button>
         </section>
         <section>
             <button id="4" onclick="changeInputBox(this.id)">4</button>
             <button id="5" onclick="changeInputBox(this.id)">5</button>
             <button id="6" onclick="changeInputBox(this.id)">6</button>
-            <button>Add</button>
+            <button id="+" onclick="changeOperator(this.id)">Add</button>
         </section>
         <section>
             <button id="1" onclick="changeInputBox(this.id)">1</button>
             <button id="2" onclick="changeInputBox(this.id)">2</button>
             <button id="3" onclick="changeInputBox(this.id)">3</button>
-            <button>Subtract</button>
+            <button id="-" onclick="changeOperator(this.id)">Subtract</button>
+        </section>
+        <section>
+            <button id="equals" onclick="calculate()">Equals</button>
         </section>
         <footer>footer</footer>
 

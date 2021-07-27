@@ -6,7 +6,6 @@ var elem = document.getElementById('userInput');
 var result; 
 
 function changeInputBox(clicked_number) {
-
     if (cycle == 0) {
         input1 += clicked_number;
         elem.value = input1; 
